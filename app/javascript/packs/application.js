@@ -14,7 +14,7 @@ require("channels")
 // or the `imagePath` JavaScript helper below.
 //
 // const images = require.context('../images', true)
-// const imagePath = (name) => images(name, true)
-require("./hello_react");
+// const imagePath = (name) => images(name, true)}
+require("./components/TodoApp");
 require('bootstrap')
 import 'bootstrap/dist/css/bootstrap'
